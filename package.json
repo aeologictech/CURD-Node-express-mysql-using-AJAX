@@ -1,5 +1,5 @@
 {
-  "name": "crud-nodejs-with-mysql",
+  "name": "CURD-Node-express-mysql-using-AJAX",
   "description": "CRUD Example Node.js & Mysql",
   "version": "0.0.1",
   "main": "server.js",
