@@ -3,8 +3,7 @@ This is an example of CRUD in Node.js and mySQL.
 
 ## Installation
 
-    cd crud-nodejs-with-mysql
-
+    cd CURD-Node-express-mysql-using-AJAX
 then
 
     npm install
